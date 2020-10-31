@@ -1,4 +1,4 @@
-# 𝐻𝒾 𝓉𝒽𝑒𝓇𝑒 🌞
+# 𝐻𝒾 𝓉𝒽𝑒𝓇𝑒 🧸
 
 ##### Smolov jr bench 🥢
 |  | MON | WED | FRI | SAT |
