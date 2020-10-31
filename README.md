@@ -3,7 +3,7 @@
 ##### CONCEPT 1.0 
 ![current portfolio](https://nielsreijnders.nl/screen.png)
 
-##### Smolov jr bench 
+##### SMOLOV JR BENCH
 |  | MON | WED | FRI | SAT |
 | :---: | :---: | :---: | :---: | :---: |
 | <b>SET x REPS</b> | 6 x 6 | 7 x 5 | 8 x 4 | 10 x 3 | 
