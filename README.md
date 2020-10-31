@@ -1,5 +1,3 @@
-### Hi there 👋
-
-![shitty old design](https://nielsreijnders.nl/screen2.png)
+##### concept 1.0
 ![current portfolio](https://nielsreijnders.nl/screen.png)
 
