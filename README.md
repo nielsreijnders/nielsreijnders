@@ -1,5 +1,8 @@
 # 𝐻𝒾 𝓉𝒽𝑒𝓇𝑒 🧸
 
+##### Concept 1.0 
+![current portfolio](https://nielsreijnders.nl/screen.png)
+
 ##### Smolov jr bench 
 |  | MON | WED | FRI | SAT |
 | :---: | :---: | :---: | :---: | :---: |
@@ -7,8 +10,3 @@
 | Week 1 | 70% 1RM | 75% 1RM | 80% 1RM | 85% 1RM | 
 | Week 2 | 70% 1RM +5kg | 75% 1RM +5kg | 80% 1RM +5kg | 85% 1RM +5kg | 
 | Week 3 | 70% 1RM +10kg | 75% 1RM +10kg| 80% 1RM +10kg| 85% 1RM +10kg| 
-
-##### Concept 1.0 portfolio
-![current portfolio](https://nielsreijnders.nl/screen.png)
-
-##### New portfolio cominig soon 
