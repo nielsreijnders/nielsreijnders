@@ -1,6 +1,6 @@
 # 𝐻𝒾 𝓉𝒽𝑒𝓇𝑒 🧸
 
-##### Smolov jr bench 🥢
+##### Smolov jr bench 
 |  | MON | WED | FRI | SAT |
 | :---: | :---: | :---: | :---: | :---: |
 | <b>SET x REPS</b> | 6 x 6 | 7 x 5 | 8 x 4 | 10 x 3 | 
