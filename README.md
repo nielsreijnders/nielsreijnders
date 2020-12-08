@@ -1,4 +1,4 @@
-# 𝐻𝒾 𝓉𝒽𝑒𝓇𝑒 🧸
+# Hi
 
 ##### CONCEPT 1.1 
 ![current portfolio](https://nielsreijnders.nl/screen3.png)
