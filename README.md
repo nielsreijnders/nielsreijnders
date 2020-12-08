@@ -3,9 +3,6 @@
 ##### CONCEPT 1.1 
 ![current portfolio](https://nielsreijnders.nl/screen3.png)
 
-##### CONCEPT 1.0 
-![current portfolio](https://nielsreijnders.nl/screen.png)
-
 ##### SMOLOV JR BENCH
 |  | MON | WED | FRI | SAT |
 | :---: | :---: | :---: | :---: | :---: |
