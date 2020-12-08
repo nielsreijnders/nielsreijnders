@@ -1,5 +1,8 @@
 # 𝐻𝒾 𝓉𝒽𝑒𝓇𝑒 🧸
 
+##### CONCEPT 1.1 
+![current portfolio](https://nielsreijnders.nl/screen3.png)
+
 ##### CONCEPT 1.0 
 ![current portfolio](https://nielsreijnders.nl/screen.png)
 
