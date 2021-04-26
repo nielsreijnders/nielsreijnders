@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=nielsreijnders)
 
 ##### CONCEPT 1.1 
-:)
+Ja :)
 
 ##### SMOLOV JR BENCH
 |  | MON | WED | FRI | SAT |
